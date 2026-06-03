@@ -23,7 +23,7 @@ As the principal developer of the EduBridge team, I contributed to:
 
 ### Platform Features
 
-![Platform Features](clien/public/screenshots:platform-features.png)
+![Platform Features](client/public/screenshots:platformfeatures.png)
 
 ## Tech Stack
 
