@@ -6,7 +6,7 @@ This repository is a portfolio copy of a collaborative academic project.
 
 ## My Contributions
 
-As a member of the EduBridge development team, I contributed to:
+As the principal developer of the EduBridge team, I contributed to:
 
 - Built and refined full-stack features using React, Node.js, Express, and MongoDB
 - Developed student-facing learning workflows, including course browsing, enrollment, dashboards, and progress tracking
@@ -14,6 +14,16 @@ As a member of the EduBridge development team, I contributed to:
 - Integrated frontend components with backend API routes
 - Improved UI structure, page flow, and responsive design using React and Tailwind CSS
 - Participated in debugging, testing, and preparing the project for demo presentation
+
+## Screenshots
+
+### Homepage
+
+![Homepage](client/public/screenshots:homepage.png)
+
+### Platform Features
+
+![Platform Features](clien/public/screenshots:platform-features.png)
 
 ## Tech Stack
 
